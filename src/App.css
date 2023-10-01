@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Ubuntu:wght@300&display=swap');
+
+body{
+    background-image: url("./Assets/background-img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Ubuntu';
+    scroll-behavior: smooth;
+}
